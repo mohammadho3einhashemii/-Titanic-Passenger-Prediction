@@ -1,2 +1,2 @@
 # -Titanic-Passenger-Prediction
-This is machine learning project that i used Logestic Regression to predict which passengers died and which survived?!
+This is a machine learning project where I used Logistic Regression to predict whether anyone would have survived if they had been on that ship at that time!
